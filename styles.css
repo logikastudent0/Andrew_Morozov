@@ -1,0 +1,21 @@
+nav{
+   margin:20px 5px;
+   text-align: center;
+}
+nav a {
+    text-decoration: none;
+    padding:15px; 
+    color: black;
+    font-size: large;
+    border: white 3px solid;
+    border-radius: 20px;
+    margin: 20px;
+    text-align: center;
+   
+}
+img{
+height: 400px;
+
+}
+
+
